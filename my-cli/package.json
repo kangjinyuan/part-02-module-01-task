@@ -1,0 +1,13 @@
+{
+    "name": "my-cli",
+    "version": "1.0.0",
+    "description": "my-cli",
+    "main": "index.js",
+    "bin": "cli.js",
+    "author": "康小源",
+    "license": "MIT",
+    "dependencies": {
+        "ejs": "^3.1.5",
+        "inquirer": "^7.3.3"
+    }
+}
